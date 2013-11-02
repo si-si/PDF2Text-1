@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace PDF2Text.PDFCommon
 {
-    public class Class1
+    public class PDFManager
     {
+
     }
 }
